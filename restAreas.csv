@@ -1,0 +1,7 @@
+name,spacesTotal,availability,generalStatus,locationName,mileMarker,timeStamp,latitude,longitude,parkingType
+New Kent EB,70,34,spaces available,I-64E,213,2018-07-10T02:57:37.237-04:00,37.496962,-77.043758,free
+New Kent WB,22,4,spaces available,I-64W,214,2018-07-10T02:57:47.538-04:00,37.497921,-77.039686,free
+Dale City NB,37,5,spaces available,I-95N,154.7,2018-07-10T02:57:37.331-04:00,38.599377,-77.312756,free
+Front Royal EB,16,0,full parking lot,I-66E,4.2,2018-07-10T02:57:47.571-04:00,38.98305,-78.232301,free
+Ladysmith NB,30,11,spaces available,I-95N,107.7,2018-07-10T02:58:08.022-04:00,37.980868,-77.491426,free
+Carson NB,35,19,spaces available,I-95N,35.9,2018-07-10T02:57:47.538-04:00,37.015315,-77.389861,free
